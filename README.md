@@ -37,6 +37,7 @@ A Python script that could take user input (city name), call the API, extract we
 A sample graphical output (charts/graphs) showcasing the data.
 
 Optional enhancements like logging the data into CSV and plotting historical comparisons.
+#output ![Image](https://github.com/user-attachments/assets/308a52c7-408d-4c53-a8ed-0d78beaf8653)
 
 
 This task helped me understand how to work with APIs, parse JSON data, and represent that data visually, which are crucial skills in today’s data-driven industry. I learned how to handle real-time data, clean and transform it, and present it in a user-friendly format, which is a fundamental part of any modern data analysis or software product.
